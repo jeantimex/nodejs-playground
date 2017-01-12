@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-playground",
+  "version": "1.0.0",
+  "description": "A playground of learning and using nodejs and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeantimex/nodejs-playground.git"
+  },
+  "author": "Yong Su",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeantimex/nodejs-playground/issues"
+  },
+  "homepage": "https://github.com/jeantimex/nodejs-playground#readme"
+}
